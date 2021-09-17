@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there, i'm Meki
 
-<!--
-**MekiRaven/MekiRaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://thumbs.gfycat.com/SphericalNegligibleFreshwatereel-size_restricted.gif)
 
-Here are some ideas to get you started:
+### About me
+20 yo Computer Science student and working in a small company. I'm having so much fun while learning languages and libraries. Ps: I created this account for educational purposes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+🟡Python
+🟣C#
+
+### Extra Stuff
+❤ I’m currently working on Rpg game and Discord bot 
+❤ I’m currently learning MySQL 
+❤ Fun fact: i'd die for cookies 
