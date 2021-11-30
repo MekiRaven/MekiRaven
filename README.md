@@ -1,4 +1,4 @@
-### Hello there, i'm Meki
+### Yo, i'm Meki
 
 ![](https://thumbs.gfycat.com/SphericalNegligibleFreshwatereel-size_restricted.gif)
 
