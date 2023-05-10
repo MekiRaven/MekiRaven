@@ -21,8 +21,4 @@ href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer noopener">
 
 
 ### Extra Stuff
-❤ I’m currently working on Rpg game, Discord bot, Website and some AI things
-
-❤ I’m currently learning <a href="" target="_blank" rel="noreferrer noopenerr"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a>
-
-❤ Fun fact: i'd die for cookies 
+- I’m currently working on Rpg game
