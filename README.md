@@ -3,7 +3,7 @@
 ![](https://thumbs.gfycat.com/SphericalNegligibleFreshwatereel-size_restricted.gif)
 
 ### About me
-20 yo Computer Science student and working in a small company. Ps: I created this account for educational purposes.
+21 yo Computer Science student and working in a small company. Ps: I created this account for educational purposes.
 
 ### Skills
 <a
